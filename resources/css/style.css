@@ -1,0 +1,135 @@
+* {
+  font-family: "Helvetica, sans-serif";
+}
+
+body {
+  margin: 0px auto;
+  width: 1300px;
+}
+
+.header {
+  background-color: black;
+  position: fixed;
+  margin: 0px auto;
+  width: 100%;
+  float: left;
+}
+
+.logo {
+  width: 82px;
+  height: 54px;
+  padding: 0px 10px;
+}
+
+.spacer {
+  width: 100%;
+  height: 69px;
+}
+
+h1 {
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+  vertical-align: center;
+  padding: 20px auto;
+}
+
+.container1 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg");
+  background-size: 1300px 100%;
+  height: 500px;
+}
+
+.smallcontainer1 {
+  background-color: black;
+}
+
+h2 {
+  color: white;
+}
+
+.list {
+  display: inline-block;
+  float: left;
+  background-color: red;
+  width: 100%;
+}
+
+.block {
+  display: inline-block;
+  color: white;
+  padding: 10px 50px;
+}
+
+.items {
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  margin: 50px 0px;
+}
+
+.pictureblock {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  border: 1px solid black;
+  margin: 0px 20px;
+}
+
+.blockpic {
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+}
+
+.blockpic2 {
+  width: 200px;
+  height: 100px;
+  padding: 100px 50px;
+}
+
+.caption {
+  display: block;
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  width: 300px;
+  font-size: 18px;
+}
+
+.locationtime {
+
+}
+
+.locationtimeblock {
+
+}
+
+.locationtimetext {
+
+}
+
+.number {
+
+}
+
+.number2 {
+
+}
+
+.number3 {
+
+}
+
+.footer {
+  height: 200px;
+  background-color: black;
+}
+
+.footertext {
+  font-size: 18px;
+  color: white;
+  padding: 90px 10px;
+  display: block;
+}
